@@ -1,9 +1,0 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Hubballi&family=League+Spartan&family=Syne+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
-</style>
-
-font-family: 'Comforter', cursive;
-font-family: 'Hubballi', cursive;
-font-family: 'League Spartan', sans-serif;
-font-family: 'Syne Mono', monospace;
